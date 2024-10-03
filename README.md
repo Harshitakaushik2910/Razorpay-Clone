@@ -1,3 +1,6 @@
 # Razorpay-Clone
 I develop Razorpay-Clone  using HTML and CSS
-![Razorpay](https://github.com/user-attachments/assets/6a3e9e72-44d0-4db4-a92e-d668be9587d3)
+
+
+https://github.com/user-attachments/assets/c7df3994-ffee-4d80-bc8d-686889ee23dc
+
